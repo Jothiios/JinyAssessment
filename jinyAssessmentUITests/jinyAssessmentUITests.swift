@@ -2,7 +2,7 @@
 //  jinyAssessmentUITests.swift
 //  jinyAssessmentUITests
 //
-//  Created by Nadella Ravindra on 23/07/19.
+//  Created by Jothi on 23/07/19.
 //  Copyright © 2019 Widas. All rights reserved.
 //
 
